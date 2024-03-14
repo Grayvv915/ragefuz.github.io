@@ -46,3 +46,10 @@ body {
 .discordinv{
     cursor: pointer;
 }
+
+.reqpar {
+    font-weight: bold;
+}
+.trialpar {
+    font-weight: bold;
+}
